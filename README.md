@@ -1,7 +1,7 @@
 # Pomodoro_Python
 
 Pomodoro timer with 25 min work and 5 minutes break sections.
-Every 8th break will be 25 minutes long, if you can do it for that long.
+Every 8th break will be 20 minutes long, if you can do it for that long.
 Watch out for alarm sound when timer ends. (can be quite loud)
 
 Hi 👋, I'm Lucas A software developer on the making
